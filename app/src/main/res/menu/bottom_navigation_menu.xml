@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_a"
+        android:icon="@drawable/ic_menu_a"
+        android:title="MENU A" />
+    <item
+        android:id="@+id/menu_b"
+        android:icon="@drawable/ic_menu_b"
+        android:title="MENU B" />
+    <item
+        android:id="@+id/menu_c"
+        android:icon="@drawable/ic_menu_c"
+        android:title="MENU CDEF" />
+    <item
+        android:id="@+id/menu_d"
+        android:icon="@drawable/ic_menu_d"
+        android:title="MENU D" />
+    <item
+        android:id="@+id/menu_e"
+        android:icon="@drawable/ic_menu_e"
+        android:title="MENU E" />
+</menu>
